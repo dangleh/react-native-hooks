@@ -1,2 +1,3 @@
 import {useToggle} from './src/useToggle';
-export {useToggle};
+import {useAppState} from './src/useAppState';
+export {useToggle, useAppState};
